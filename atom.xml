@@ -3,11 +3,11 @@
   <title>醋溜折耳根</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://enoliu.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://enoliu.github.io/"/>
   <updated>2022-07-06T07:21:44.890Z</updated>
-  <id>http://example.com/</id>
+  <id>https://enoliu.github.io/</id>
   
   <author>
     <name>Enoliu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/07/06/hello-world/"/>
-    <id>http://example.com/2022/07/06/hello-world/</id>
+    <link href="https://enoliu.github.io/2022/07/06/hello-world/"/>
+    <id>https://enoliu.github.io/2022/07/06/hello-world/</id>
     <published>2022-07-06T05:41:37.025Z</published>
     <updated>2022-07-06T07:21:44.890Z</updated>
     
@@ -33,7 +33,7 @@
     
     
     
-    <category term="golang" scheme="http://example.com/categories/golang/"/>
+    <category term="golang" scheme="https://enoliu.github.io/categories/golang/"/>
     
     
   </entry>
