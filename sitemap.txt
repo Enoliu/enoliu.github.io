@@ -1,3 +1,4 @@
+https://enoliu.github.io/2022/07/15/golang-protobuf%E5%85%A5%E9%97%A8%E8%AE%B0%E5%BD%95/
 https://enoliu.github.io/2022/07/07/[hyperf]jwt%E8%AE%A4%E8%AF%81%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0token/
 https://enoliu.github.io/about/me.html
 https://enoliu.github.io/2022/07/06/hello-world/
@@ -8,5 +9,7 @@ https://enoliu.github.io/
 https://enoliu.github.io/tags/hyperf/
 https://enoliu.github.io/tags/jwt/
 https://enoliu.github.io/tags/php/
+https://enoliu.github.io/tags/protobuf/
 https://enoliu.github.io/categories/PHP/
+https://enoliu.github.io/categories/Golang/
 https://enoliu.github.io/categories/golang/
