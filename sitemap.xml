@@ -104,6 +104,13 @@
 
   
   <url>
+    <loc>https://enoliu.github.io/categories/golang/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://enoliu.github.io/categories/PHP/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,13 +119,6 @@
   
   <url>
     <loc>https://enoliu.github.io/categories/Golang/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://enoliu.github.io/categories/golang/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
