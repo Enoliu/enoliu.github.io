@@ -38,15 +38,6 @@
   </url>
   
   <url>
-    <loc>https://enoliu.github.io/2022/07/06/hello-world/</loc>
-    
-    <lastmod>2022-07-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://enoliu.github.io/tags/index.html</loc>
     
     <lastmod>2022-07-06</lastmod>
@@ -117,17 +108,17 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://enoliu.github.io/categories/PHP/</loc>
+    <loc>https://enoliu.github.io/tags/grpc-gateway/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://enoliu.github.io/categories/golang/</loc>
+    <loc>https://enoliu.github.io/categories/PHP/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
