@@ -7,11 +7,11 @@ https://enoliu.github.io/tags/index.html
 https://enoliu.github.io/categories/index.html
 https://enoliu.github.io/404.html
 https://enoliu.github.io/
-https://enoliu.github.io/tags/hyperf/
-https://enoliu.github.io/tags/jwt/
-https://enoliu.github.io/tags/php/
 https://enoliu.github.io/tags/protobuf/
 https://enoliu.github.io/tags/grpc/
 https://enoliu.github.io/tags/grpc-gateway/
-https://enoliu.github.io/categories/PHP/
+https://enoliu.github.io/tags/hyperf/
+https://enoliu.github.io/tags/jwt/
+https://enoliu.github.io/tags/php/
 https://enoliu.github.io/categories/Golang/
+https://enoliu.github.io/categories/PHP/
