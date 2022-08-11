@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://enoliu.github.io/2022/08/11/golang-jwt-jwt%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</loc>
+    <lastmod>2022-08-11</lastmod>
+  </url>
+  <url>
     <loc>https://enoliu.github.io/2022/07/22/golang-grpc-gateway%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2022-07-22</lastmod>
   </url>
